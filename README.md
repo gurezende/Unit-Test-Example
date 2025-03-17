@@ -18,6 +18,3 @@ pip install pytest
 ```
 pytest test_discount.py
 ```
-
-## Author
-[Your Name]
